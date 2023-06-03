@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\volog\source\repos\bsit1\bsit1\Source.cpp(207,42): warning C4267: =: преобразование из "size_t" в "USHORT"; возможна потеря данных
+  bsit1.vcxproj -> C:\Users\volog\source\repos\bsit1\x64\Debug\bsit1.exe
